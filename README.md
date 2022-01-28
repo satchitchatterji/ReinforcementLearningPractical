@@ -6,9 +6,13 @@
 This project acts as an extention for an earlier projects done for the Neural Networks course. The readme file below is still valid for this project, however, all associated files from that project are in the folder "NNProject". The remaining are the ones that are important for the RFL course:
 
 > SARSAAgent.py
+
 > trainSARSA.py
+
 > episode.py
+
 > flight_paths.py
+
 > plot_scores.py
 
 I hope you enjoy this project!
