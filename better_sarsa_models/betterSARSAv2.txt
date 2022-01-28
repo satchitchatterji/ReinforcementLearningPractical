@@ -1,0 +1,1 @@
+{'n_inputs': 11, 'controls': ['w', ' ', 's', 'a', 'd', 'p'], 'epsilon': 0.1, 'epsilon_decay': 0.9999985, 'epsilon_min': 0.1, 'gamma': 0.99, 'learning_rate': 0.001, 'max_history': 100000, 'batch_size': 45, 'saved_model_name': 'better_sarsa_models/betterSARSAv2.model', 'update_rule': 'cur_reward + self.gamma*(next_Q_vals[next_action])'}
